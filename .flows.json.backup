@@ -1,0 +1,201 @@
+[
+    {
+        "id": "650bd8b6052efaad",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9e29bf35258d2a13",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "22b4ce47f3ca3922",
+        "type": "ui_tab",
+        "name": "Tab 1",
+        "icon": "dashboard",
+        "order": 1
+    },
+    {
+        "id": "22e571e25ed8d12b",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "22b4ce47f3ca3922",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "6b1b3acf7b0753bd",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "22b4ce47f3ca3922",
+        "order": 2,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "91bc105c2abc77c0",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "22b4ce47f3ca3922",
+        "order": 3,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "7b4e3fcee0502a31",
+        "type": "ui_group",
+        "name": "Group 4",
+        "tab": "22b4ce47f3ca3922",
+        "order": 4,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "ec394a8932e81841",
+        "type": "ui_tab",
+        "name": "Tab 2",
+        "icon": "dashboard",
+        "order": 2
+    },
+    {
+        "id": "f89f42096d86cd36",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "ec394a8932e81841",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "4a345c93e211dfac",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "ec394a8932e81841",
+        "order": 2,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "463364a07f5211e9",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "ec394a8932e81841",
+        "order": 3,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "cec714bb4d5242b4",
+        "type": "ui_group",
+        "name": "Group 4",
+        "tab": "ec394a8932e81841",
+        "order": 4,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "c035f36fc06a7b8e",
+        "type": "ui_group",
+        "name": "Group 5",
+        "tab": "ec394a8932e81841",
+        "order": 5,
+        "disp": true,
+        "width": 6
+    }
+]
