@@ -1,0 +1,13 @@
+name: Keep Codespaces Alive
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping Codespaces
+        run: echo "Pinging Codespaces to keep them alive"
